@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<test name="Run on Chrome">
+		<classes>
+			<class name="com.alada.login.Level_03_Login_POM" />
+		</classes>
+	</test>
+</suite> 
